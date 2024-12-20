@@ -1,4 +1,4 @@
 # EVENT-MANAGEMENT-SYSTEM-DJANGO-
 #Batch CBI-024
-Name: Mouno Uddin
-ID:C213122
+#Name: Mouno Uddin
+#ID:C213122
